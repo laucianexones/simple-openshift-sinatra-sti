@@ -5,4 +5,5 @@ set :port, 8080
 
 get '/' do
   "Hallo München - TEST"
+  "Kerem - Version1"
 end
